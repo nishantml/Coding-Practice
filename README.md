@@ -7,3 +7,6 @@
 5. Searching
 6. String
 7. Misc
+8. Pattern
+9. Sliding Window
+10 BST
