@@ -1,6 +1,6 @@
 # Coding-Practice
 
-### 200 Days of Code
+### 150 Days of Code
 
 1. Dynamic Programming
 2. Hash
